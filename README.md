@@ -22,9 +22,7 @@ Or install it yourself as:
 
 1) Add `uikit.min` to your Application.js:
 
-    //= require 'jquery'
-    //= require 'jquery_ujs'
-    ...
+
     //= require uikit.min
 
 2) Add `uikithai` to your Application.css:
