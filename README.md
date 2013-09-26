@@ -23,7 +23,7 @@ Or install it yourself as:
 1) Add `uikit.min` to your Application.js:
 
 
-    //= require uikit.min
+    //= require uikit
 
 2) Add `uikithai` to your Application.css:
 
