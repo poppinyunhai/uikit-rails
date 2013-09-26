@@ -1,4 +1,4 @@
-# RailsUikit
+# UikitRails
 
 A gem to automate using uikit framework with Rails 3.
 
@@ -8,7 +8,7 @@ See (http://www.getuikit.com/index.html) for more info.
 
 Add this line to your application's Gemfile:
 
-    gem 'rails_uikit'
+    gem 'uikit-rails'
 
 And then execute:
 
