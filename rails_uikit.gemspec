@@ -5,7 +5,7 @@ Gem::Specification.new do |spec|
   spec.version       = RailsUikit::VERSION
   spec.authors       = ["poppinyunhai"]
   spec.email         = ["yiranyunhaisrh@gmail.com"]
-  spec.description   = %q{A gem to automate using uikit framework plugin with Rails 3}
+  spec.description   = %q{A gem to automate using uikit framework plugin with Rails 3 and 4}
   spec.summary       = %q{good ui framework}
   spec.homepage      = "https://github.com/poppinyunhai/rails_uikit"
   spec.license       = "MIT"
